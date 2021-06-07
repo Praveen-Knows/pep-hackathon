@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+.heading {
+  text-align: center;
+  display: none;
+}
+.choice-container {
+  font-size: 1.2rem;
+  height: 50vh;
+  width: 20vw;
+  margin: 0 auto;
+  margin-top: 15vh;
+  display: none;
+}
+button {
+  width: 80px;
+  height: 40px;
+  background-color: bisque;
+  border-radius: 5%;
+}
+#image {
+  height: 100vh;
+  width: 100vw;
+}
+img {
+  margin-top: 15vh;
+  margin-left: 30vw;
+}

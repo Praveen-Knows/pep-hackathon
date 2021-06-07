@@ -1,0 +1,82 @@
+[
+  {
+    "question1": "Which of the following is generally used for performing tasks like creating the structure of the relations, deleting relation?",
+    "A": "DML(Data Manipulation Language)",
+    "B": "Query",
+    "C": "Relational Schema",
+    "D": "DDL(Data Definition Language)",
+    "ans": "D"
+  },
+  {
+    "question2": "Which of the following provides the ability to query information from the database and insert tuples into, delete tuples from, and modify tuples in the database?",
+    "A": "DML(Data Manipulation Language)",
+    "B": "DDL(Data Definition Language)",
+    "C": "Query",
+    "D": "Relational Schema",
+    "ans": "A"
+  },
+  {
+    "question3": "The given Query can also be replaced with______:\nSELECT name, course_id\nFROM instructor, teaches\nFROM instructor, teaches\nWHERE instructor_ID= teaches_ID;",
+    "A": "Select name,course_id from teaches,instructor where instructor_id=course_id;",
+    "B": "Select name, course_id from instructor natural join teaches;",
+    "C": "Select name, course_id from instructor;",
+    "D": "Select course_id from instructor join teaches;",
+    "ans": "B"
+  },
+  {
+    "question4": "Which one of the following given statements possibly contains the error?",
+    "A": "select * from emp where empid = 10003;",
+    "B": "select empid from emp where empid = 10006;",
+    "C": "select empid from emp;",
+    "D": "select empid where empid = 1009 and Lastname = 'GELLER';",
+    "ans": "D"
+  },
+  {
+    "question5": "Ready the Query carefully:\nSELECT emp_name\nFROM department\nWHERE dept_name LIKE'___Computer Science';\nIn the above-given Query, which of the following can be placed in the Query's blank portion to select the \"dept_name\" that also contains Computer Science as its ending string?",
+    "A": "&",
+    "B": "_",
+    "C": "%",
+    "D": "$",
+    "ans": "C"
+  },
+  {
+    "question6": "What do you mean by one to many relationships?",
+    "A": "One class may have many teachers",
+    "B": "One teacher can have many classes",
+    "C": "Many classes may have many teachers",
+    "D": "Many teachers may have many classes",
+    "ans": "B"
+  },
+  {
+    "question7": "  In the following Query, which of the following can be placed in the Query's blank portion to display the salary from highest to lowest amount, and sorting the employs name alphabetically?\nSELECT *\nFROM instructor\nORDER BY salary ____, name ___;",
+    "A": "Ascending, Descending",
+    "B": "Asc, Desc",
+    "C": "Desc, Asc",
+    "D": "All of the above",
+    "ans": "C"
+  },
+  {
+    "question8": "The given Query can be replaced with ____________:\nSELECT name\nFROM instructor1\nWHERE salary <= 100000 AND salary >= 90000;  ",
+    "A": "SELECT name\nFROM instructor1\nWHERE salary BETWEEN 100000 AND 90000",
+    "B": "SELECT name\nFROM instructor|\nWHERE salary BETWEEN 90000 AND 100000;",
+    "C": "SELECT name\nFROM instructor1\nWHERE salary BETWEEN 90000 AND 100000;",
+    "D": "SELECT name\nFROM instructor!\nWHERE salary <= 90000 AND salary>=100000;",
+    "ans": "C"
+  },
+  {
+    "question9": "A Database Management System is a type of _________software.",
+    "A": "It is a type of system software",
+    "B": "It is a kind of application software",
+    "C": "It is a kind of general software",
+    "D": "Both A and C",
+    "ans": "A"
+  },
+  {
+    "question10": "The term \"FAT\" is stands for_____",
+    "A": "File Allocation Tree",
+    "B": "File Allocation Table",
+    "C": "File Allocation Graph",
+    "D": "All of the above",
+    "ans": "B"
+  }
+]

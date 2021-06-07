@@ -1,0 +1,386 @@
+[
+  {
+    "question": "Which of these is a standard interface for serial data transmission?",
+    "A": "ASCII",
+    "B": "RS232C",
+    "C": "2",
+    "D": "Centronics",
+    "ans": "B"
+  },
+  {
+    "question": "Which type of topology is best suited for large businesses which must carefully control and coordinate the operation of distributed branch outlets?",
+    "A": "Ring",
+    "B": "Local area",
+    "C": "Hierarchical",
+    "D": "Star",
+    "ans": "D"
+  },
+  {
+    "question": "Which of the following transmission directions listed is not a legitimate channel?",
+    "A": "Simplex",
+    "B": "Half Duplex",
+    "C": "Full Duplex",
+    "D": "Double Duplex",
+    "ans": "D"
+  },
+  {
+    "question": "\"Parity bits\" are used for which of the following purposes?",
+    "A": "Encryption of data",
+    "B": "To transmit faster",
+    "C": "To detect errors",
+    "D": "To identify the user",
+    "ans": "C"
+  },
+  {
+    "question": "What kind of transmission medium is most appropriate to carry data in a computer network that is exposed to electrical interferences?",
+    "A": "Unshielded twisted pair",
+    "B": "Optical fiber",
+    "C": "Coaxial cable",
+    "D": "Microwave",
+    "ans": "B"
+  },
+  {
+    "question": "A collection of hyperlinked documents on the internet forms the ?.?",
+    "A": "World Wide Web (WWW)",
+    "B": "E-mail system",
+    "C": "Mailing list",
+    "D": "Hypertext markup language",
+    "ans": "A"
+  },
+  {
+    "question": "The location of a resource on the internet is given by its?",
+    "A": "Protocol",
+    "B": "URL",
+    "C": "E-mail address",
+    "D": "ICQ",
+    "ans": "B"
+  },
+  {
+    "question": "The term HTTP stands for?",
+    "A": "Hyper terminal tracing program",
+    "B": "Hypertext tracing protocol",
+    "C": "Hypertext transfer protocol",
+    "D": "Hypertext transfer program",
+    "ans": "C"
+  },
+  {
+    "question": "A proxy server is used as the computer?",
+    "A": "with external access",
+    "B": "acting as a backup",
+    "C": "performing file handling",
+    "D": "accessing user permissions",
+    "ans": "A"
+  },
+  {
+    "question": "Which one of the following would breach the integrity of a system?",
+    "A": "Looking the room to prevent theft",
+    "B": "Full access rights for all users",
+    "C": "Fitting the system with an anti-theft device",
+    "D": "Protecting the device against willful or accidental damage",
+    "ans": "B"
+  },
+  {
+    "question": "Which software prevents the external access to a system?",
+    "A": "Firewall",
+    "B": "Gateway",
+    "C": "Router",
+    "D": "Virus checker",
+    "ans": "A"
+  },
+  {
+    "question": "Which one of the following is a valid email address?",
+    "A": "interviewprep@point.com",
+    "B": "gmail.com",
+    "C": "tpoint@.com",
+    "D": "interviewpoint@books",
+    "ans": "A"
+  },
+  {
+    "question": "Which of the following best describes uploading information?",
+    "A": "Sorting data on a disk drive",
+    "B": "Sending information to a host computer",
+    "C": "Receiving information from a host computer",
+    "D": "Sorting data on a hard drive",
+    "ans": "B"
+  },
+  {
+    "question": "Which one of the following is the most common internet protocol?",
+    "A": "HTML",
+    "B": "NetBEUI",
+    "C": "TCP/IP",
+    "D": "IPX/SPX",
+    "ans": "C"
+  },
+  {
+    "question": "Software programs that allow you to legally copy files and give them away at no cost are called which of the following?",
+    "A": "Probe ware",
+    "B": "Timeshare",
+    "C": "Shareware",
+    "D": "Public domain",
+    "ans": "D"
+  },
+  {
+    "question": "The term FTP stands for?",
+    "A": "File transfer program",
+    "B": "File transmission protocol",
+    "C": "File transfer protocol",
+    "D": "File transfer protection",
+    "ans": "C"
+  },
+  {
+    "question": "At what speed does tele-computed refer?",
+    "A": "Interface speed",
+    "B": "Cycles per second",
+    "C": "Baud rate",
+    "D": "Megabyte load",
+    "ans": "C"
+  },
+  {
+    "question": "Which one of the following is not a network topology?",
+    "A": "Star",
+    "B": "Ring",
+    "C": "Bus",
+    "D": "Peer to Peer",
+    "ans": "D"
+  },
+  {
+    "question": "The maximum length (in bytes) of an IPv4 datagram is?",
+    "A": "32",
+    "B": "1024",
+    "C": "65535",
+    "D": "512",
+    "ans": "C"
+  },
+  {
+    "question": "Which of the following statements could be valid with respect to the ICMP (Internet Control Message Protocol)?",
+    "A": "It reports all errors which occur during transmission.",
+    "B": "A redirect message is used when a router notices that a packet seems to have been routed wrongly.",
+    "C": "It informs routers when an incorrect path has been taken.",
+    "D": "The \"destination unreachable\" type message is used when a router cannot locate the destination.",
+    "ans": "B"
+  },
+  {
+    "question": "The IP network 192.168.50.0 is to be divided into 10 equal sized subnets. Which of the following subnet masks can be used for the above requirement?",
+    "A": "255.243.240",
+    "B": "255.255.0.0",
+    "C": "255.255.0",
+    "D": "255.255.255",
+    "ans": "C"
+  },
+  {
+    "question": "When the mail server sends mail to other mail servers it becomes ___ ?",
+    "A": "SMTP client",
+    "B": "SMTP server",
+    "C": "Peer",
+    "D": "Master",
+    "ans": "A"
+  },
+  {
+    "question": "The length of an IPv6 address is?",
+    "A": "32 bits",
+    "B": "64 bits",
+    "C": "128 bits",
+    "D": "256 bits",
+    "ans": "C"
+  },
+  {
+    "question": "Consider the following:\nTwisted pair cables\nMicrowaves and Satellite Signals\nRepeaters\nAnalog Transmissions\nFiber optics\nWhich of the above is consider as (a) signal transmission medium is data communications?",
+    "A": "(1) and (5)",
+    "B": "(1) and (2)",
+    "C": "(1) (2) and (5)",
+    "D": "(1) (2) (3) and (5)",
+    "ans": "C"
+  },
+  {
+    "question": "Which of the following address belongs class A?",
+    "A": "121.12.12.248",
+    "B": "130.12.12.248",
+    "C": "128.12.12.248",
+    "D": "129.12.12.248",
+    "ans": "A"
+  },
+  {
+    "question": "Which of the following is correct IPv4 address?",
+    "A": "124.201.3.1.52",
+    "B": "01.200.128.123",
+    "C": "300.142.210.64",
+    "D": "128.64.0.0",
+    "ans": "D"
+  },
+  {
+    "question": "Which of the following IP addresses can be used as (a) loop-back addresses?",
+    "A": "0.0.0.0",
+    "B": "127.0.0.1",
+    "C": "255.255.255.255",
+    "D": "0.255.255.255",
+    "ans": "B"
+  },
+  {
+    "question": "The term WAN stands for?",
+    "A": "Wide Area Net",
+    "B": "Wide Access Network",
+    "C": "Wide Area Network",
+    "D": "Wide Access Net",
+    "ans": "C"
+  },
+  {
+    "question": "Which of the following cannot be used as a medium for 802.3 ethernet?",
+    "A": "A thin coaxial cable",
+    "B": "A twisted pair cable",
+    "C": "A microwave link",
+    "D": "A fiber optical cable",
+    "ans": "C"
+  },
+  {
+    "question": "What IP address class allocates 8 bits for the host identification part?",
+    "A": "Class A",
+    "B": "Class B",
+    "C": "Class C",
+    "D": "Class D",
+    "ans": "C"
+  },
+  {
+    "question": "The term IANA stands for?",
+    "A": "Internet Assigned Numbers Authority",
+    "B": "Internal Assigned Numbers Authority",
+    "C": "Internet Associative Numbers Authoritative",
+    "D": "Internal Associative Numbers Authority",
+    "ans": "A"
+  },
+  {
+    "question": "How many versions available of IP?",
+    "A": "6 version",
+    "B": "4 version",
+    "C": "2 version",
+    "D": "1 version",
+    "ans": "C"
+  },
+  {
+    "question": "Which layer of the TCP / IP stack corresponds to the OSI model transport layer?",
+    "A": "Host to host",
+    "B": "Application",
+    "C": "Internet",
+    "D": "Network Access",
+    "ans": "A"
+  },
+  {
+    "question": "An Aloha network uses an 18.2 kbps channel for sending message packets of 100 bits long size. Calculate the maximum throughput.",
+    "A": "5999",
+    "B": "6900",
+    "C": "6027",
+    "D": "5027",
+    "ans": "C"
+  },
+  {
+    "question": "On a simplex data link, which of the following is a possible error recovery technique?",
+    "A": "Backward error correction (BEC)",
+    "B": "The use of hamming codes",
+    "C": "Automatic Repeat Request (ARQ)",
+    "D": "Downward error correction (DEC)",
+    "ans": "B"
+  },
+  {
+    "question": "Which of the statement is correct with regard to Time Division Multiplexing (TDM) and its variants?",
+    "A": "Statistical TDM makes efficient use of the bandwidth only if the arrival pattern of the data stream is probabilistic.",
+    "B": "TDM doesn't requires the transmitter and receiver to be synchronized periodically.",
+    "C": "TDM performs efficiently if the arrival pattern of the data stream is probabilistic.",
+    "D": "Statistical TDM is efficient if the data stream is deterministic.",
+    "ans": "A"
+  },
+  {
+    "question": "The term IPv4 stands for?",
+    "A": "Internet Protocol Version 4",
+    "B": "Internet Programming Version 4",
+    "C": "International Programming Version 4",
+    "D": "None of these",
+    "ans": "A"
+  },
+  {
+    "question": "38) The term LAN stands for?",
+    "A": "Local Area Net",
+    "B": "Local Area Network",
+    "C": "Local Array Network",
+    "D": "Local Array Net",
+    "ans": "B"
+  },
+  {
+    "question": "Which of the through is share the data of two computer?",
+    "A": "Library",
+    "B": "Network",
+    "C": "Grouping",
+    "D": "Integrated system",
+    "ans": "B"
+  },
+  {
+    "question": "In specific, if the systems use separate protocols, which one of the following devices is used to link two systems?",
+    "A": "Repeater",
+    "B": "Gateway",
+    "C": "Bridge",
+    "D": "Hub",
+    "ans": "B"
+  },
+  {
+    "question": "How many digits of the Data Network Identification Code (DNIC) identify the country?",
+    "A": "first three",
+    "B": "first four",
+    "C": "first five",
+    "D": "first six",
+    "ans": "A"
+  },
+  {
+    "question": "Which of the following methods is used to broadcast two packets on the medium at a time?",
+    "A": "Collision",
+    "B": "Synchronous",
+    "C": "Asynchronous",
+    "D": "None of the above",
+    "ans": "A"
+  },
+  {
+    "question": "Which of the following is true with regard to the ping command?",
+    "A": "Ping stands for Packet Internet Generator.",
+    "B": "The ping command checks the port level connectivity between source destinations end points.",
+    "C": "Ping summarizes the packet loss and round-trip delay between two IP end points.",
+    "D": "The ping command activates the RARP protocol of the IP layer.",
+    "ans": "C"
+  },
+  {
+    "question": "The private key in asymmetric key cryptography is kept by?",
+    "A": "Sender",
+    "B": "Receiver",
+    "C": "Sender and Receiver",
+    "D": "None of the these",
+    "ans": "B"
+  },
+  {
+    "question": "Which of the following algorithms is not used in asymmetric-key cryptography?",
+    "A": "RSA algorithm",
+    "B": "Diffie-Hellman algorithm",
+    "C": "Electronic code book algorithm",
+    "D": "None of the mentioned",
+    "ans": "C"
+  },
+  {
+    "question": "In the cryptography, the sequence of the letters is rearranged by?",
+    "A": "Transposition ciphers",
+    "B": "Substitution ciphers",
+    "C": "Both a and b",
+    "D": "None of these",
+    "ans": "A"
+  },
+  {
+    "question": "What is the maximum efficiency of pure aloha at G = 1/2?",
+    "A": "1.89",
+    "B": "17.99",
+    "C": "18.999",
+    "D": "18.4",
+    "ans": "D"
+  },
+  {
+    "question": "What is the maximum efficiency of slotted aloha at G = 1?",
+    "A": "36.8",
+    "B": "35.8",
+    "C": "35.5",
+    "D": "37.8",
+    "ans": "A"
+  }
+]
